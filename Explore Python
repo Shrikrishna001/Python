@@ -1,0 +1,957 @@
+'''*Why do we use 'Float' ?
+**Float is a term "Floating Point" Its a built in data type into 
+compiler that used to define numeric valus & fraction value with 
+floating decimal points**
+
+*How to open app from command prompt ?
+***Step 1- Check weather whichever app you want to open in command prompt if its open the app then all good
+***Step 2-If the command prompt shows  "is not recognized as an internal or external command operable program"
+***Step 3-Then you have to set path in Envionmental variable. Once path is set then we are able to able to open 
+the app through the commad prompt.  
+***Step 4-To clear everything on commad prompt type "cls" it will reset again.'''
+
+#Arethematic Operations
+
+#Addition
+x = 12
+y = 2
+print(x+y)
+
+x = 15
+c= x+2
+print(c)
+
+
+
+A= 15+15
+print(A)
+
+
+#Subtration
+x = 3
+y = 3
+print(x-y)
+
+x = 20
+c= x-2
+print(c)
+
+
+
+A= 10-5
+print(A)
+
+#Multiplication
+x = 4
+y = 4
+print(x*y)
+
+x = 20
+c= x*2
+print(c)
+
+
+
+A= 10*10
+print(A)
+
+#Division
+x = 5
+y = 5
+print(x/y)
+
+#Modulus
+x = 6
+y = 6
+print(x%y)
+
+#Exponentiation
+x = 90
+print(x**2)
+
+#Floor Division
+x = 8
+y = 8
+print(x//y)
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 13:40:14 2022
+
+@author: DELL
+"""
+
+
+
+#Assignemt Operator
+x=0 
+'''='''
+
+#Addition
+x = 1212
+y = 2121
+print(x+y)
+
+x = 15
+c= x+2
+print(c)
+
+
+
+A= 15+15
+print(A)
+
+
+#Subtration
+x = 3
+y = 3
+print(x-y)
+
+x = 20
+c= x-2
+print(c)
+
+
+
+A= 10-5
+print(A)
+
+#Multiplication
+x = 4
+y = 4
+print(x*y)
+
+x = 20
+c= x*2
+print(c)
+
+
+
+A= 10*10
+print(A)
+
+#Division
+x = 5
+y = 5
+print(x/y)
+
+x = 10
+y = x/10
+print(y)
+
+#Modulus
+x = 6
+y = 6
+print(x%y)
+
+x = 30
+y = x % 90
+print(y)
+
+#Exponentiation
+x = 90
+print(x**2)
+
+#Floor Division
+x = 8
+y = 8
+print(x//y)
+
+x = 55
+y = 65 //y
+print(y)
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 15:54:08 2022
+
+@author: DELL
+"""
+
+#Assignemt Operator
+x=0 
+'''='''
+print(x)
+
+#Comparision Operator
+
+a=1
+b=1
+print(a==b)
+
+a=6
+b=5
+a!=b
+print(a==b)
+
+a = 26
+b = 30
+print(a<b)
+
+a = 50
+b = 100
+print(a>b)
+
+a = 90
+b = 90
+c = (a>=b)
+print(c)
+
+a = 50
+b = 500
+print(b<=a)
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jan 19 13:43:20 2022
+
+@author: DELL
+"""
+
+#Loop
+'''IF it snow I will go out Else I will not'''
+snow = 1
+
+if snow == 1:
+    print("I will go out")
+else:
+    print("I will not go out")
+    
+#Else
+
+snow = 0
+
+if snow == 1:
+    print("I will go out")
+else:
+    print("I will not go out")
+    
+'''If it rains frogs I will dance'''
+
+rains = 1
+
+if rains == 1:
+    print("I will dance")
+else:
+    print("I will not dance")
+
+#Else
+    
+rains = 0
+
+if rains == 1:
+    print("I will dance")
+else:
+    print("I will not dance")
+   
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 21 20:38:49 2022
+
+@author: DELL
+"""
+#Append
+My_Var = [1 , 2 , 3 , 4]
+My_Var.append(5)
+print(My_Var)
+
+#Clear
+My_List = [1 , 2 , 3 , 4 , 5]
+My_List.clear()
+print(My_List)
+
+#Copy
+My_Car = ["BMW" , "Range-Rover" , "Mercerdes"]
+My_Car.copy()
+print(My_Car)
+
+#Count
+My_Bank = ['City' , 'HDFC' , 'SBI']
+x = My_Bank.count("City")
+print(x)
+
+#Extend
+My_Num = [10 , 20 , 30 , 40 , 50 ]
+Num_Extra = [60 , 70 , 80 ,90]
+My_Num.extend(Num_Extra)
+print(My_Num)
+
+#Index
+City = ['Mumbai' , 'Delhi' , 'Chennai']
+x = City.index("Delhi")
+print(x)
+
+#Insert
+State = ["Maharastra" , "Andra Pradesh"]
+State.insert(1, "Tamil Nadu")
+print(State)
+
+#Pop
+Dance = ["Salsa" , "Hip-Hop" , "Classical"]
+Dance.pop(1)
+print(Dance)
+
+#Remove
+Cartoon = ["Tom-Jerry" ,"Ben10" ,"Bob The Builder" ,"Chota Bheem"]
+Cartoon.remove('Chota Bheem')
+print(Cartoon)
+
+#Reverse
+Counting = [1 , 2 , 3 , 4 , 5]
+Counting.reverse()
+print(Counting)
+
+#Sort
+Actor =["Tom-Cruise", "Rambo" ,"Jackie-Chan"]
+Actor.sort()
+print(Actor)
+
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jan 22 21:07:41 2022
+
+@author: DELL
+"""
+
+#Capitalize
+txt = 'my name is Shrikrishna' 
+x=txt.capitalize()
+print(x)
+
+#Casefold
+txt = 'MY AGE IS 19'
+x = txt.casefold()
+print(x)
+
+#Centre
+txt = 'Sugar'
+x = txt.center(50)
+print(x)
+
+#Count
+txt = 'I love banana'
+x = txt.count('banana')
+print(x)
+
+#Encode
+txt = 'Fi$h can $wim in water'
+x = txt.encode()
+print(x)
+
+#Endswith
+txt = "I'm completing my task."
+x = txt.endswith('.')
+print(x)
+
+#Expandtabs
+txt = "G\to\to\to\td"
+x = txt.expandtabs(5)
+print(x)
+
+#Find
+txt = "Welcome to the world"
+x = txt.find("world")
+print(x)
+
+#Format
+txt = "For only {price:.2f} rupess"
+print(txt.format(price = 50))
+
+#format_map
+# input stored in variable a.
+a = {'x':'Sugar', 'y':'Can'}
+print("{x}'s last name is {y}".format_map(a))
+
+#Index
+txt = "Just checking index"
+x = txt.index("checking")
+print(x)
+
+#isalnum
+txt = "Company5"
+x = txt.isalnum()
+print(x)
+
+#isalpha
+txt = "CompanyY"
+x = txt.isalpha()
+print(x)
+
+#isascii
+txt = "125"
+x = txt.isascii()
+print(x)
+
+#isdecimal
+txt = "2545" 
+x = txt.isdecimal()
+print(x)
+
+#isdigit
+txt = "nope"
+x = txt.isdigit()
+print(x)
+
+#isidentifier
+txt = "Check"
+x = txt.isidentifier()
+print(x)
+
+#islower
+txt = "slow or not"
+x = txt.islower()
+print(x)
+
+#isnumeric
+txt = "100"
+x = txt.isnumeric()
+print(x)
+
+#isprintable
+txt = "Hello \n"
+x = txt.isprintable()
+print(x)
+
+#isspace
+txt = "  "
+x = txt.isspace()
+print(x)
+
+#istitle
+txt = "Mining Truck Is Massive"
+x = txt.istitle()
+print(x)
+
+#isupper
+txt = "THIS IS MEE"
+x = txt.isupper()
+print(x)
+
+#join
+my_Tuple = ("Balram", "Ram", "Vickam")
+x = "#".join(my_Tuple)
+print(x)
+
+#ljust
+txt = "banana"
+x = txt.ljust(25)
+print(x, "is my favorite fruit.")
+
+#lower
+txt = "Hello my GANG"
+x = txt.lower()
+print(x)
+
+#lstrip
+txt = "     banana "
+x = txt.lstrip()
+print("of all fruits", x, "is my favorite")
+
+#maketrans
+txt = "Hello Coca Cola!"
+mytable = txt.maketrans("C", "O")
+print(txt.translate(mytable))
+
+#partition
+txt = "I can drive my car"
+x = txt.partition("drive")
+print(x)
+
+#replace
+txt = "I like bananas"
+x = txt.replace("bananas", "Guava")
+print(x)
+
+#rfind
+txt = "Where is the road."
+x = txt.rfind("where")
+print(x)
+
+#title
+txt = "Welcome to my world"
+x = txt.title()
+print(x)
+
+#translate
+mydict = {10:  200}
+txt = "coca cola"
+print(txt.translate(mydict))
+
+#upper
+txt = "nice to meet you"
+x = txt.upper()
+print(x)
+
+#zfill
+txt = "100000"
+x = txt.zfill(10)
+print(x)
+
+
+'''*Why negative number indexing in python ?
+
+**It's because when we want to access the last element from the list we don't have to count till last element. 
+Then here comes python which is helpful to resolve this problem from the example we can understand in better way'''
+
+#code
+
+'''*Input'''
+l1 = [1 , 2 , 3 , 4]
+print(l1[-1])
+
+'''*Output'''
+4   
+
+'''In the similar way we can find the 2nd last element from the list'''
+
+'''*Input'''
+l2 = [1 , 2 , 3 , 4]
+print(l1[-2])
+
+'''*Output'''
+3
+
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jan 23 19:58:39 2022
+
+@author: DELL
+"""
+
+'''Creating a Function'''
+
+#Def
+def my_function():
+  print("Hello from a function")
+
+my_function()
+  
+#Arguments
+def OS(osname):
+  print(osname + " OS")
+
+OS("Windows")
+OS("Mac")
+OS("Linux")
+
+def add_sub(x , y):
+    a = (x + y)
+    b = (x - y)
+    
+    return a , b
+
+result1, result2 = add_sub(20, 10)
+print(result1 ,result2)
+
+''' Dictionary method'''
+car = {
+       "brand": "Ford",
+   }
+car.clear()
+print(car)
+
+car = {
+       "brand": "BMW"
+       }
+car.copy()
+print(car)
+
+x = ('key 1' , 'key 2' , 'key 3')
+thisdict = dict.fromkeys(x)
+
+print(thisdict)
+
+
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan 25 17:56:21 2022
+
+@author: DELL
+"""
+
+# Set
+
+myset = {1 , 2 , 3 , 4 , 5 }
+print(myset)
+
+s1 = {'cherry' , 'banana' , 'apple'}
+s2 = {1 , 2 , 3 , 4 , 5}
+s3 = {False , True }
+print(s1)
+print(s2)
+print(s3)
+
+
+#Sorting
+
+nums = [1, 5, 3, 4, 2, 10, 6, 8, 7, 9]
+nums.sort()
+print('List in Dscending Order: ', nums)
+
+nums.sort(reverse=True)
+print('List in Descending Order: ', nums)
+5
+
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan 25 18:28:54 2022
+
+@author: DELL
+"""
+
+# menus
+print("Calculator")
+print("1.Add")
+print("2.Substract")
+print("3.Multiply")
+print("4.Divide")
+
+# input choice
+ch=int(input("Enter Choice(1-4): "))
+
+if ch==1:
+    a=int(input("Enter A:"))
+    b=int(input("Enter B:"))
+    c=a+b
+    print("Sum = ",c)
+elif ch==2:
+    a=int(input("Enter A:"))
+    b=int(input("Enter B:"))
+    c=a-b
+    print("Difference = ",c)
+elif  ch==3:
+    a=int(input("Enter A:"))
+    b=int(input("Enter B:"))
+    c=a*b
+    print("Product = ",c)
+elif ch==4:
+    a=int(input("Enter A:"))
+    b=int(input("Enter B:"))
+    c=a/b
+    print("Quotient = ",c)
+else:
+    print("Invalid Choice")
+
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jan 25 19:35:41 2022
+
+@author: DELL
+"""
+
+x = (1 , 10)
+for x in range (0, 50, 2):
+    print(x)
+    
